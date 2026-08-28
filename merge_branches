@@ -1,7 +1,6 @@
 git checkout main
 git merge bug-fix-typo
-b2644a3 (HEAD -> main, origin/main, origin/bug-fix-typo, origin/HEAD, bug-fix-typo) Merge bug-fix-typo into main
-44c9aac (origin/bug-fix-revert) Update README.md
-0a19469 Merge pull request #1 from Muditeshwaran07/Muditeshwaran07-patch-1
-0c56e00 (origin/Muditeshwaran07-patch-1) Update README.md
-9440189 Update README.md
+b2644a3 (origin/bug-fix-typo, bug-fix-typo) Merge bug-fix-typo into main
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
