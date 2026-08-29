@@ -1,7 +1,2 @@
-$ git branch -a -vv
-* main                                   91c83e1 [origin/main] Add pull request verification
-  remotes/origin/HEAD                    -> origin/main
-  remotes/origin/Muditeshwaran07-patch-1 0c56e00 Update README.md
-  remotes/origin/bug-fix-revert          44c9aac Update README.md
-  remotes/origin/bug-fix-typo            b2644a3 Merge bug-fix-typo into main
-  remotes/origin/main                    91c83e1 Add pull request verification
+$ git branch -vv
+* main a9d5fa9 [origin/main] Add forked repository verification
